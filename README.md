@@ -4,3 +4,5 @@ add future, lemon, and phobos to cape
 add NoWeather to NoRender
 
 add a name color to the nametags
+
+add extend to rendertweaks
