@@ -12,3 +12,5 @@ add extend to RenderTweaks
 add fullbright  
 add Viewmodel  
 
+## Combat 
+Optimizing ArmorRegear
