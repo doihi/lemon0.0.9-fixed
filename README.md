@@ -1,8 +1,8 @@
 # lemon0.0.9-fixed
-add future, lemon, and phobos to cape
+add future, lemon, and phobos to Cape
    
 add NoWeather to NoRender
 
-add a name color to the nametags
+add a name color to the Nametags
 
-add extend to rendertweaks
+add extend to RenderTweaks
