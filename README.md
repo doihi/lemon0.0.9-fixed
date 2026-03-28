@@ -6,3 +6,5 @@ add NoWeather to NoRender
 add a name color to the Nametags
 
 add extend to RenderTweaks
+
+add fullbright
