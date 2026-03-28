@@ -1,6 +1,7 @@
 # lemon0.0.9-fixed
-
-## add outline color 
+## visual 
+ add outline color
+## render
 add future, lemon, and phobos to Cape
    
 add NoWeather to NoRender
