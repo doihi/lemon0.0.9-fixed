@@ -1,8 +1,9 @@
 # lemon0.0.9-fixed
 ## visual 
- add outline color
-   
- add font change
+ Optimizing shulkerESP and HoleESP  
+ add outline color  
+ add font change  
+ 
 ## render
 add future, lemon, and phobos to Cape
    
